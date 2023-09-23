@@ -1,1 +1,2 @@
 # excluir datos grandes guardados en carpetas estáticas
+/Datos/**/*
