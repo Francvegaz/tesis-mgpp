@@ -5,3 +5,7 @@
 /Datos/04_feature/**
 
 /Datos/Detalle_Cat_y_Rol_cobro/**
+
+# permitir datos del sinim
+!/Datos/01_raw/sinim**
+!/Datos/02_intermediate/sinim**
